@@ -1,0 +1,26 @@
+header{
+    background-color: black;
+    }
+    h1{ 
+    text-align: center;
+    color: white;
+    }
+    .Po1{
+        display: flex;justify-content: center;
+        text-decoration: none;
+        margin-top: 5%;
+        margin-bottom: 5%;
+    }
+    
+    h2{
+        text-align: center;
+        color: white;
+    }
+
+    .boite1{
+        transition: background 5s, transform 5s;
+    }
+
+    .boite1:hover{
+        transform: rotate(45deg);
+    }

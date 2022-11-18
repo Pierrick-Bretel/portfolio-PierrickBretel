@@ -1,0 +1,30 @@
+footer{
+    background-color: black;
+}
+
+#image6{
+    width: 10%;
+    height: 10%;
+}
+
+#image7{
+    width: 12%;
+    height: 10%;
+   
+}
+
+#image8{
+    width: 10%;
+    height: 10%;
+    
+}
+
+.image678{
+    display: flex;justify-content: center;
+
+}
+.Po2{
+    display: flex;justify-content: center;
+    color: white;
+}
+
